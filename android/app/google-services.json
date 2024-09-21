@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194046745368",
+    "project_id": "clipzer-58d55",
+    "storage_bucket": "clipzer-58d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194046745368:android:e0a6e87cee2e160a0b9c6d",
+        "android_client_info": {
+          "package_name": "com.tsassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194046745368-j9uol4u17hereagafhpp9u7bt2dctek8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2OlkkxtQtZJag8uPrk9Y0yrCHLkcgF1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194046745368-j9uol4u17hereagafhpp9u7bt2dctek8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
